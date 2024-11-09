@@ -1,5 +1,5 @@
 # Dominos-Sales-Anaysis
-
+![logo](https://github.com/rachit7217/Dominos-Sales-Anaysis/blob/main/Dashboard%2014%20Dominos%20Pizza%20Sales.png)
 To create a "Dominos Sales Analysis" project using Excel, SQL, and Power BI, follow these key steps:
 
 ### 1. **Data Collection and Preparation (Excel/SQL)**  
